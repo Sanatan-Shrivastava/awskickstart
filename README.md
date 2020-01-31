@@ -1,4 +1,4 @@
-# awskickstart
+# AWS-KICKSTART
 Workshop with DSC IIITK on aws infrastructure and services
 
    ![amazon web services](https://yt3.ggpht.com/-kLxukT5wJ9U/AAAAAAAAAAI/AAAAAAAAAAA/TWoI-d9ak2Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg)
