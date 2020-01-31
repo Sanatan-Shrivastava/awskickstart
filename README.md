@@ -26,7 +26,7 @@ Since the services would be accessed through credits, lets apply for [aws educat
 
 Now that you have been credited with 30 dollars, lets get started with some hands-on experience and get all strangy with AWS.
 
-
+At the end, we would push a static website to AWS using EC2 and S3 -- Module 1.
 
 
 
